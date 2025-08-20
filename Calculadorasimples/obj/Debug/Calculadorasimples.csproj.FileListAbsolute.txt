@@ -1,0 +1,10 @@
+C:\Users\geovanna.psilva9\source\repos\Calculadorasimples\bin\Debug\Calculadorasimples.exe.config
+C:\Users\geovanna.psilva9\source\repos\Calculadorasimples\bin\Debug\Calculadorasimples.exe
+C:\Users\geovanna.psilva9\source\repos\Calculadorasimples\bin\Debug\Calculadorasimples.pdb
+C:\Users\geovanna.psilva9\source\repos\Calculadorasimples\obj\Debug\Calculadorasimples.csproj.AssemblyReference.cache
+C:\Users\geovanna.psilva9\source\repos\Calculadorasimples\obj\Debug\Calculadorasimples.frmCalculadoraSimples.resources
+C:\Users\geovanna.psilva9\source\repos\Calculadorasimples\obj\Debug\Calculadorasimples.Properties.Resources.resources
+C:\Users\geovanna.psilva9\source\repos\Calculadorasimples\obj\Debug\Calculadorasimples.csproj.GenerateResource.cache
+C:\Users\geovanna.psilva9\source\repos\Calculadorasimples\obj\Debug\Calculadorasimples.csproj.CoreCompileInputs.cache
+C:\Users\geovanna.psilva9\source\repos\Calculadorasimples\obj\Debug\Calculadorasimples.exe
+C:\Users\geovanna.psilva9\source\repos\Calculadorasimples\obj\Debug\Calculadorasimples.pdb
