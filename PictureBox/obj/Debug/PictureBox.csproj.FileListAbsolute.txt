@@ -1,0 +1,10 @@
+C:\Users\geovanna.psilva9\source\repos\PictureBox\bin\Debug\PictureBox.exe.config
+C:\Users\geovanna.psilva9\source\repos\PictureBox\bin\Debug\PictureBox.exe
+C:\Users\geovanna.psilva9\source\repos\PictureBox\bin\Debug\PictureBox.pdb
+C:\Users\geovanna.psilva9\source\repos\PictureBox\obj\Debug\PictureBox.csproj.AssemblyReference.cache
+C:\Users\geovanna.psilva9\source\repos\PictureBox\obj\Debug\PictureBox.PictureBox.resources
+C:\Users\geovanna.psilva9\source\repos\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+C:\Users\geovanna.psilva9\source\repos\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+C:\Users\geovanna.psilva9\source\repos\PictureBox\obj\Debug\PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\geovanna.psilva9\source\repos\PictureBox\obj\Debug\PictureBox.exe
+C:\Users\geovanna.psilva9\source\repos\PictureBox\obj\Debug\PictureBox.pdb

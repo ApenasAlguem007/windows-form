@@ -1,0 +1,10 @@
+C:\Users\geovanna.psilva9\source\repos\switchCase\obj\Debug\switchCase.csproj.AssemblyReference.cache
+C:\Users\geovanna.psilva9\source\repos\switchCase\obj\Debug\switchCase.FrmSwitch.resources
+C:\Users\geovanna.psilva9\source\repos\switchCase\obj\Debug\switchCase.Properties.Resources.resources
+C:\Users\geovanna.psilva9\source\repos\switchCase\obj\Debug\switchCase.csproj.GenerateResource.cache
+C:\Users\geovanna.psilva9\source\repos\switchCase\obj\Debug\switchCase.csproj.CoreCompileInputs.cache
+C:\Users\geovanna.psilva9\source\repos\switchCase\bin\Debug\switchCase.exe.config
+C:\Users\geovanna.psilva9\source\repos\switchCase\bin\Debug\switchCase.exe
+C:\Users\geovanna.psilva9\source\repos\switchCase\bin\Debug\switchCase.pdb
+C:\Users\geovanna.psilva9\source\repos\switchCase\obj\Debug\switchCase.exe
+C:\Users\geovanna.psilva9\source\repos\switchCase\obj\Debug\switchCase.pdb
