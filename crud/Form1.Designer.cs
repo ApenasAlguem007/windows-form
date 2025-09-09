@@ -42,9 +42,13 @@
             this.lblNomeCompleto = new System.Windows.Forms.Label();
             this.tbConsulta = new System.Windows.Forms.TabPage();
             this.btnSalvar = new System.Windows.Forms.Button();
+            this.txtBuscar = new System.Windows.Forms.TextBox();
+            this.btnPesquisar = new System.Windows.Forms.Button();
+            this.lstCliente = new System.Windows.Forms.ListView();
             this.panelTopo.SuspendLayout();
             this.tbControl.SuspendLayout();
             this.tbCadastro.SuspendLayout();
+            this.tbConsulta.SuspendLayout();
             this.SuspendLayout();
             // 
             // panelTopo
@@ -168,6 +172,9 @@
             // 
             // tbConsulta
             // 
+            this.tbConsulta.Controls.Add(this.lstCliente);
+            this.tbConsulta.Controls.Add(this.btnPesquisar);
+            this.tbConsulta.Controls.Add(this.txtBuscar);
             this.tbConsulta.Location = new System.Drawing.Point(4, 29);
             this.tbConsulta.Name = "tbConsulta";
             this.tbConsulta.Padding = new System.Windows.Forms.Padding(3);
@@ -189,6 +196,34 @@
             this.btnSalvar.UseVisualStyleBackColor = false;
             this.btnSalvar.Click += new System.EventHandler(this.btnSalvar_Click);
             // 
+            // txtBuscar
+            // 
+            this.txtBuscar.Location = new System.Drawing.Point(20, 17);
+            this.txtBuscar.Name = "txtBuscar";
+            this.txtBuscar.Size = new System.Drawing.Size(217, 26);
+            this.txtBuscar.TabIndex = 0;
+            // 
+            // btnPesquisar
+            // 
+            this.btnPesquisar.BackColor = System.Drawing.Color.Teal;
+            this.btnPesquisar.ForeColor = System.Drawing.Color.White;
+            this.btnPesquisar.Location = new System.Drawing.Point(261, 17);
+            this.btnPesquisar.Name = "btnPesquisar";
+            this.btnPesquisar.Size = new System.Drawing.Size(117, 31);
+            this.btnPesquisar.TabIndex = 1;
+            this.btnPesquisar.Text = "Pesquisar";
+            this.btnPesquisar.UseVisualStyleBackColor = false;
+            this.btnPesquisar.Click += new System.EventHandler(this.btnPesquisar_Click);
+            // 
+            // lstCliente
+            // 
+            this.lstCliente.HideSelection = false;
+            this.lstCliente.Location = new System.Drawing.Point(20, 64);
+            this.lstCliente.Name = "lstCliente";
+            this.lstCliente.Size = new System.Drawing.Size(715, 172);
+            this.lstCliente.TabIndex = 2;
+            this.lstCliente.UseCompatibleStateImageBehavior = false;
+            // 
             // frmCadastroDeClientes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -205,6 +240,8 @@
             this.tbControl.ResumeLayout(false);
             this.tbCadastro.ResumeLayout(false);
             this.tbCadastro.PerformLayout();
+            this.tbConsulta.ResumeLayout(false);
+            this.tbConsulta.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -225,6 +262,9 @@
         private System.Windows.Forms.MaskedTextBox txtCPF;
         private System.Windows.Forms.Label lblCPF;
         private System.Windows.Forms.Button btnSalvar;
+        private System.Windows.Forms.Button btnPesquisar;
+        private System.Windows.Forms.TextBox txtBuscar;
+        private System.Windows.Forms.ListView lstCliente;
     }
 }
 
