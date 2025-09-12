@@ -194,6 +194,10 @@ namespace crud
                                     MessageBoxIcon.Information);
 
 
+
+                //codigo_cliente = null;
+
+
                 // Limpa os campos após sucesso 
                 txtNomeCompleto.Text = String.Empty;
                 txtNomeSocial.Text = " ";
@@ -258,6 +262,19 @@ namespace crud
             string query = "SELECT * FROM dadosdocliente WHERE nomecompleto LIKE @q OR nomesocial LIKE @q ORDER BY idcliente DESC";
             carregar_clietes_com_query(query);
                 
+        }
+
+        private void btnNovoCadastro_Click(object sender, EventArgs e)
+        {
+            //codigo_cliente = null;
+
+            // Limpa os campos após sucesso 
+            txtNomeCompleto.Text = String.Empty;
+            txtNomeSocial.Text = " ";
+            txtEmail.Text = " ";
+            txtCPF.Text = " ";
+
+            txtNomeCompleto.Focus();
         }
     }
 }
